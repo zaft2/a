@@ -1,6 +1,6 @@
 {
-  "name": "PHP Getting Started",
-  "description": "A barebones PHP app that makes use of the Silex web framework",
-  "repository": "https://github.com/heroku/php-getting-started",
+  "name": "Aerotos",
+  "description": "Aerotos sein Test",
+  "repository": "https://github.com/zaft2/a",
   "addons": []
 }
